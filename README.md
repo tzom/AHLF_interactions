@@ -16,7 +16,7 @@ matplolib
 
 git clone https://github.com/tzom/AHLF
 
-**the AHLF repo needs to be inside the path of this repo! (./AHLF_interaction/AHLF)**
+**the AHLF repo needs to be inside the path of this repo! (./AHLF_interactions/AHLF)**
 
 # calculate attributions (path-explain applied to AHLF)
 > python compute_attributions.py
